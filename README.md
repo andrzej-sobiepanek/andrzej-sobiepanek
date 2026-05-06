@@ -7,4 +7,7 @@ Experienced BI professional specializing in end-to-end data solutions.
 
 ---
 
-[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1KvCsF7E9MFEnnBy43AJzZzyosEQNprFC?usp=sharing)
+[Otwórz mój projekt w Colab](https://colab.research.google.com/drive/1KvCsF7E9MFEnnBy43AJzZzyosEQNprFC?usp=sharing)
+
+
+
