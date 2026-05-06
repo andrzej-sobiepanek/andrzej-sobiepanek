@@ -6,7 +6,7 @@ Experienced BI professional specializing in end-to-end data solutions.
 `Tableau` | `BigQuery` | `Python (Colab)`
 
 ---
-
+Analiza sprzedaży dla sklepu internetowego przy użyciu trzech narzędzi: SQL, Python i Tableau.
 [Otwórz mój projekt w Colab](https://colab.research.google.com/drive/1KvCsF7E9MFEnnBy43AJzZzyosEQNprFC?usp=sharing)
 
 
