@@ -16,4 +16,7 @@ Cleaning and organizing data, performing analysis, and gaining valuable insights
 [Open my project in Colab](https://colab.research.google.com/drive/1RLN40HchGyvISh5_h21xGi6W36290qwm?usp=sharing)
 
 
+[Tableau Dashboards](https://public.tableau.com/app/profile/jerzy.kowalski/vizzes ) 
+
+
 
